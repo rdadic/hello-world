@@ -1,2 +1,2 @@
 Edited version of readme.md u GitHubu
-Još jedna promjena
+Još jedna promjena u GH
